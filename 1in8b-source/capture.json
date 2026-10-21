@@ -1,0 +1,27 @@
+{
+  "source_url": "https://1in8b.life/zh-hans/",
+  "captured_at": "2026-10-21T16:34:28.101039+08:00",
+  "page_version": "0.7.94",
+  "files": [
+    {
+      "path": "original.html",
+      "bytes": 228865,
+      "sha256": "2cf87136e1a13d2468ff73241184bfcfe8a027cd90d6b0d456688d2843102aaa"
+    },
+    {
+      "path": "index.html",
+      "bytes": 4754301,
+      "sha256": "761b661ac8798cf8f4ae4a8d5e46553771b3a5be325206a87a4c02b805d0c987"
+    },
+    {
+      "path": "assets/zh-hans.21693a37a9.js",
+      "bytes": 4228002,
+      "sha256": "21693a37a938defa6417519581e415034fa47d1a042b9c5ba71eef1df47cbafb"
+    },
+    {
+      "path": "assets/fonts.css",
+      "bytes": 285408,
+      "sha256": "e64a1c67638561fe5241d79487d4cdf52cb75b5f0fc5940816676b2d1282ac2f"
+    }
+  ]
+}
